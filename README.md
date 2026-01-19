@@ -1,5 +1,11 @@
 ## [The Web Conference 2026] From Words to Worlds: Measuring Cultural Narrative Bias in LLMs via a Structural–Value Pipeline
 
+<p align="center">
+  <a href="assets/Overview.png">
+    <img src="assets/中山大学.png" width="300" />
+  </a>
+</p>
+
 > 🎉🎉 **Congratulations!** This paper has been accepted as **The Web Conference 2026 🌟🔥** at Web4Good track.  
 
 🌟 If you found this work helpful, please consider giving us a ⭐ on GitHub!
