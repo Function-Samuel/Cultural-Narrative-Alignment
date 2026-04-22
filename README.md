@@ -23,3 +23,15 @@ Large Language Models (LLMs) are rapidly evolving into cultural producers, yet t
     <img src="assets/Overview.png" width="900" />
   </a>
 </p>
+
+## Citation
+
+```bibtex
+@inproceedings{shen2026words,
+  title={From Words to Worlds: Measuring Cultural Narrative Bias in LLMs via a Structural--Value Pipeline},
+  author={Shen, Fangjian and Zeng, Yifan and Lyu, Dechen and Wen, Wushao},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={8961--8972},
+  year={2026}
+}
+```
